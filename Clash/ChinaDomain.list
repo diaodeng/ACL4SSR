@@ -6,7 +6,8 @@ DOMAIN-KEYWORD,dmall-os.com
 DOMAIN-KEYWORD,rta-os
 DOMAIN-KEYWORD,rtacdn-os.com
 DOMAIN-KEYWORD,ap.getway.mastercard.com
-DOMAIN-KEYWORD,ap-gateway.mastercard.com
+# DOMAIN-KEYWORD,ap-gateway.mastercard.com
+DOMAIN-SUFFIX,ap.gateway.mastercard.com
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
