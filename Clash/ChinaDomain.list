@@ -1,6 +1,7 @@
 # 直连列表
 
 # DMALL
+DOMAIN-KEYWORD,fastapi.tiangolo.com
 DOMAIN-KEYWORD,dmall.com
 DOMAIN-KEYWORD,dmall-os.com
 DOMAIN-KEYWORD,rta-os
